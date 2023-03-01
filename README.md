@@ -1,3 +1,7 @@
+
+<a href="https://app.daily.dev/SoftwareKengineer"><img src="https://api.daily.dev/devcards/52d5e8471ab84616b9ac05a80486f334.png?r=qha" width="400" alt="Software Kengineer's Dev Card"/></a>
+
+
 ### Hi there my name is Kenneth AKA The Software Kengineer 👋 updating this weekly as I discover new ways to personalize
 
 - 🔭 I’m currently working on finishing up my full stack web development course with Digital Crafts.
